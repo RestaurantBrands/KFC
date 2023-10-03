@@ -1,0 +1,16 @@
+{
+  "name": "uat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run",
+    "runtests": "npm run test --"
+
+  },
+  "author": "LavanyaM",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.3.0"
+  }
+}
